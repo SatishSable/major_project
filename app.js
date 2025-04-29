@@ -53,6 +53,7 @@ app.get("/listings/:id", async (req, res) => {
   res.render("listings/show", { listing });
 });
 
+// satish sable
 // EDIT
 app.get("/listings/:id/edit", async (req, res) => {
   const { id } = req.params;

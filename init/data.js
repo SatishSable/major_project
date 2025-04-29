@@ -1,5 +1,6 @@
 const sampleListings = [
   {
+    // sample listings
     tittle: "Cozy Beachfront Cottage",
     description:
       "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
