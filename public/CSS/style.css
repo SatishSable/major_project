@@ -97,11 +97,29 @@ body {
     opacity: 0;
 }
 .card-img-overlay:hover {
-    opacity: 0.5;
-    background-color: white;
+    opacity: 0.1;
+    background-color: gray;
 }
 /* add lisings */
 .add-btn{
     background-color: #fe424d !important;
     border: none !important;
+}
+
+/* edit btn */
+.edit-btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+
+/* show page */
+.show-img{
+    height: 30vh;
+}
+.btns{
+    display: flex;
+}
+.show-card{
+    padding-left: 0;
+    padding-right: 0;
 }
